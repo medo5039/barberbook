@@ -1,0 +1,25 @@
+{
+  "name": "BarberBook",
+  "short_name": "BarberBook",
+  "description": "Book appointments with top barbers in Germany. Find, book, and manage your grooming appointments effortlessly.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#1e5fd9",
+  "orientation": "portrait-primary",
+  "categories": ["business", "lifestyle"],
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
